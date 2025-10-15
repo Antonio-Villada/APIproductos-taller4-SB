@@ -1,0 +1,7 @@
+uq/avanzada/taller4/entities/Producto.class
+uq/avanzada/taller4/services/ProductoService.class
+uq/avanzada/taller4/services/impl/ProductoServiceImpl.class
+uq/avanzada/taller4/services/impl/ProductoServiceImpl$1.class
+uq/avanzada/taller4/Taller4Application.class
+uq/avanzada/taller4/exceptions/ProductoNoEncontradoException.class
+uq/avanzada/taller4/controllers/ProductoController.class

@@ -1,0 +1,7 @@
+/home/antonio-villada/Escritorio/UQ/programacion avanzada/taller4/src/main/java/uq/avanzada/taller4/Taller4Application.java
+/home/antonio-villada/Escritorio/UQ/programacion avanzada/taller4/src/main/java/uq/avanzada/taller4/controllers/ProductoController.java
+/home/antonio-villada/Escritorio/UQ/programacion avanzada/taller4/src/main/java/uq/avanzada/taller4/entities/Producto.java
+/home/antonio-villada/Escritorio/UQ/programacion avanzada/taller4/src/main/java/uq/avanzada/taller4/exceptions/ProductoNoEncontradoException.java
+/home/antonio-villada/Escritorio/UQ/programacion avanzada/taller4/src/main/java/uq/avanzada/taller4/repositories/ProductoRepository.java
+/home/antonio-villada/Escritorio/UQ/programacion avanzada/taller4/src/main/java/uq/avanzada/taller4/services/ProductoService.java
+/home/antonio-villada/Escritorio/UQ/programacion avanzada/taller4/src/main/java/uq/avanzada/taller4/services/impl/ProductoServiceImpl.java

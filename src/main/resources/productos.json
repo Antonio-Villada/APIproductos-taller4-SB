@@ -1,0 +1,212 @@
+[
+  {
+    "idProducto": 1,
+    "nombre": "Laptop Dell XPS 13",
+    "descripcion": "Ultrabook de 13 pulgadas con pantalla InfinityEdge y procesador Intel Core i7.",
+    "stock": 12,
+    "precio": 5899000.00
+  },
+  {
+    "idProducto": 2,
+    "nombre": "iPhone 15 Pro Max",
+    "descripcion": "Smartphone de alta gama con chip A17 Pro y cámara triple de 48MP.",
+    "stock": 8,
+    "precio": 6999000.00
+  },
+  {
+    "idProducto": 3,
+    "nombre": "Monitor Samsung Odyssey G7",
+    "descripcion": "Monitor curvo QHD de 32 pulgadas con tasa de refresco de 240Hz.",
+    "stock": 15,
+    "precio": 2399000.00
+  },
+  {
+    "idProducto": 4,
+    "nombre": "Mouse Logitech MX Master 3S",
+    "descripcion": "Ratón inalámbrico ergonómico con sensor de alta precisión y carga USB-C.",
+    "stock": 30,
+    "precio": 389000.00
+  },
+  {
+    "idProducto": 5,
+    "nombre": "Teclado Mecánico Keychron K6",
+    "descripcion": "Teclado compacto con interruptores mecánicos rojos y conectividad Bluetooth.",
+    "stock": 25,
+    "precio": 499000.00
+  },
+  {
+    "idProducto": 6,
+    "nombre": "Tablet Samsung Galaxy Tab S9",
+    "descripcion": "Tableta de 11 pulgadas con pantalla AMOLED y soporte para S-Pen.",
+    "stock": 10,
+    "precio": 3699000.00
+  },
+  {
+    "idProducto": 7,
+    "nombre": "Auriculares Sony WH-1000XM5",
+    "descripcion": "Audífonos inalámbricos con cancelación activa de ruido y batería de 30 horas.",
+    "stock": 18,
+    "precio": 1699000.00
+  },
+  {
+    "idProducto": 8,
+    "nombre": "Disco Duro Externo Seagate 2TB",
+    "descripcion": "Almacenamiento portátil USB 3.0 compatible con Windows y macOS.",
+    "stock": 40,
+    "precio": 329000.00
+  },
+  {
+    "idProducto": 9,
+    "nombre": "Smartwatch Apple Watch Series 9",
+    "descripcion": "Reloj inteligente con pantalla Retina Always-On y sensor de oxígeno en sangre.",
+    "stock": 14,
+    "precio": 2899000.00
+  },
+  {
+    "idProducto": 10,
+    "nombre": "Router TP-Link Archer AX6000",
+    "descripcion": "Router Wi-Fi 6 con puertos Gigabit y tecnología MU-MIMO.",
+    "stock": 22,
+    "precio": 899000.00
+  },
+  {
+    "idProducto": 11,
+    "nombre": "SSD NVMe Kingston Fury 1TB",
+    "descripcion": "Unidad de estado sólido con velocidad de lectura de hasta 3500 MB/s.",
+    "stock": 35,
+    "precio": 589000.00
+  },
+  {
+    "idProducto": 12,
+    "nombre": "Cámara GoPro HERO12 Black",
+    "descripcion": "Cámara de acción 5.3K resistente al agua con estabilización HyperSmooth 6.0.",
+    "stock": 16,
+    "precio": 2299000.00
+  },
+  {
+    "idProducto": 13,
+    "nombre": "Control Xbox Series X",
+    "descripcion": "Control inalámbrico con diseño ergonómico y conexión Bluetooth.",
+    "stock": 28,
+    "precio": 379000.00
+  },
+  {
+    "idProducto": 14,
+    "nombre": "PlayStation 5 Slim",
+    "descripcion": "Consola de videojuegos con unidad de disco y soporte para juegos 4K.",
+    "stock": 9,
+    "precio": 4899000.00
+  },
+  {
+    "idProducto": 15,
+    "nombre": "Nintendo Switch OLED",
+    "descripcion": "Consola híbrida con pantalla OLED de 7 pulgadas y 64GB de almacenamiento.",
+    "stock": 20,
+    "precio": 2299000.00
+  },
+  {
+    "idProducto": 16,
+    "nombre": "Laptop Lenovo Legion 5 Pro",
+    "descripcion": "Laptop gamer con Ryzen 7 y tarjeta gráfica RTX 4070.",
+    "stock": 7,
+    "precio": 7399000.00
+  },
+  {
+    "idProducto": 17,
+    "nombre": "Impresora HP Smart Tank 720",
+    "descripcion": "Impresora multifuncional con sistema de tinta continua y Wi-Fi.",
+    "stock": 13,
+    "precio": 789000.00
+  },
+  {
+    "idProducto": 18,
+    "nombre": "Alexa Echo Dot 5ta Gen",
+    "descripcion": "Altavoz inteligente con asistente de voz Alexa y sonido mejorado.",
+    "stock": 45,
+    "precio": 259000.00
+  },
+  {
+    "idProducto": 19,
+    "nombre": "Proyector Epson PowerLite X49",
+    "descripcion": "Proyector XGA de 3600 lúmenes ideal para presentaciones y aulas.",
+    "stock": 11,
+    "precio": 2199000.00
+  },
+  {
+    "idProducto": 20,
+    "nombre": "Memoria USB SanDisk 128GB",
+    "descripcion": "Memoria flash USB 3.1 con carcasa metálica y clip retráctil.",
+    "stock": 60,
+    "precio": 159000.00
+  },
+  {
+    "idProducto": 21,
+    "nombre": "Smart TV LG OLED C3 55”",
+    "descripcion": "Televisor 4K con panel OLED evo y sistema webOS 23.",
+    "stock": 10,
+    "precio": 4499000.00
+  },
+  {
+    "idProducto": 22,
+    "nombre": "Cámara de Seguridad Xiaomi Mi 360°",
+    "descripcion": "Cámara IP con rotación completa y visión nocturna HD.",
+    "stock": 50,
+    "precio": 249000.00
+  },
+  {
+    "idProducto": 23,
+    "nombre": "Batería Portátil Anker 20000mAh",
+    "descripcion": "Powerbank con carga rápida PowerIQ y dos puertos USB-A.",
+    "stock": 32,
+    "precio": 349000.00
+  },
+  {
+    "idProducto": 24,
+    "nombre": "Repetidor Wi-Fi Xiaomi Pro 300Mbps",
+    "descripcion": "Amplificador de señal Wi-Fi compatible con routers dual band.",
+    "stock": 36,
+    "precio": 129000.00
+  },
+  {
+    "idProducto": 25,
+    "nombre": "Parlante JBL Charge 5",
+    "descripcion": "Altavoz Bluetooth resistente al agua con batería de 20 horas.",
+    "stock": 27,
+    "precio": 699000.00
+  },
+  {
+    "idProducto": 26,
+    "nombre": "Cargador GaN UGREEN 100W",
+    "descripcion": "Cargador rápido con puertos USB-C y USB-A, ideal para laptops y móviles.",
+    "stock": 21,
+    "precio": 289000.00
+  },
+  {
+    "idProducto": 27,
+    "nombre": "Cámara Web Logitech C920s",
+    "descripcion": "Webcam Full HD con micrófono estéreo y tapa de privacidad.",
+    "stock": 19,
+    "precio": 359000.00
+  },
+  {
+    "idProducto": 28,
+    "nombre": "Laptop HP Pavilion 15",
+    "descripcion": "Portátil de 15.6 pulgadas con procesador Intel Core i5 y SSD de 512GB.",
+    "stock": 14,
+    "precio": 3899000.00
+  },
+  {
+    "idProducto": 29,
+    "nombre": "Tarjeta Gráfica NVIDIA RTX 4060",
+    "descripcion": "GPU con 8GB GDDR6, soporte DLSS 3 y ray tracing.",
+    "stock": 6,
+    "precio": 2599000.00
+  },
+  {
+    "idProducto": 30,
+    "nombre": "Mini PC Intel NUC 13 Pro",
+    "descripcion": "Computadora compacta con procesador i7 de 13ª generación.",
+    "stock": 9,
+    "precio": 3299000.00
+  }
+]
